@@ -74,7 +74,7 @@ df<-ukb_data %>% select(c(
 #############    Save data#######################################
 ukb_sub_mri<-df%>% filter(is.na(df$"date_of_attending_assessment_centre_f53_2_0")==FALSE)#76603
 dim(ukb_sub_mri)
-save(ukb_sub_mri, file = "ukb_sub_mri_20251023.rda")
+save(ukb_sub_mri, file = "ukb_sub_mri_fat2.rda")
 
 
 
