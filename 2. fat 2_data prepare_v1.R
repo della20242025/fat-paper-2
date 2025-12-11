@@ -4,7 +4,7 @@ library(purrr)
 
 
 #############    Import data #######################################
-load ("/labs/DiabetesPopulationHealth/data/dwang/data/ukb_sub_mri_20251023.rda",v=TRUE)
+load ("/labs/DiabetesPopulationHealth/data/dwang/data/ukb_sub_mri_fat2.rda",v=TRUE)
 ukb_sub_mri
 df<-ukb_sub_mri
 var<-dput(names(df))
