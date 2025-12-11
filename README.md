@@ -1,3 +1,3 @@
 # fat-paper-2
-# title: Comparison of DXA, BIA, and Anthropometry for Assessing Subcutaneous, Visceral, Liver, and Pancreas Fat Measured by MRI
+# Title: Comparison of DXA, BIA, and Anthropometry for Assessing Subcutaneous, Visceral, Liver, and Pancreas Fat Measured by MRI
 # This repository is used for sharing the analysis code.
